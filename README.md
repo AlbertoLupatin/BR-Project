@@ -1,4 +1,4 @@
-# Bioinformatic Resorces Project (2024)
+# Bioinformatic Resources Project (2024)
 
 This repository contains the code and workflow used for RNA-seq differential expression analysis from TCGA cancer datasets. The project involves analyzing RNA-seq counts from tumor and control samples to identify differentially expressed genes and explore their biological significance.
 
